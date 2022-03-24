@@ -1,0 +1,10 @@
+D:\AM\ВізуальнеПрограмування\Lab1\VP_Lab1\obj\Debug\VP_Lab1.csproj.AssemblyReference.cache
+D:\AM\ВізуальнеПрограмування\Lab1\VP_Lab1\obj\Debug\VP_Lab1.Form1.resources
+D:\AM\ВізуальнеПрограмування\Lab1\VP_Lab1\obj\Debug\VP_Lab1.Properties.Resources.resources
+D:\AM\ВізуальнеПрограмування\Lab1\VP_Lab1\obj\Debug\VP_Lab1.csproj.GenerateResource.cache
+D:\AM\ВізуальнеПрограмування\Lab1\VP_Lab1\obj\Debug\VP_Lab1.csproj.CoreCompileInputs.cache
+D:\AM\ВізуальнеПрограмування\Lab1\VP_Lab1\bin\Debug\VP_Lab1.exe.config
+D:\AM\ВізуальнеПрограмування\Lab1\VP_Lab1\bin\Debug\VP_Lab1.exe
+D:\AM\ВізуальнеПрограмування\Lab1\VP_Lab1\bin\Debug\VP_Lab1.pdb
+D:\AM\ВізуальнеПрограмування\Lab1\VP_Lab1\obj\Debug\VP_Lab1.exe
+D:\AM\ВізуальнеПрограмування\Lab1\VP_Lab1\obj\Debug\VP_Lab1.pdb
